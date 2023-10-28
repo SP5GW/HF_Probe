@@ -2,12 +2,11 @@
 
 
 
-## Calculating QRP Transmitter Output Power  
-
-The test setup required to perfrom transmitter output power measurement is depicted in 
-section "Measurement Results".
+## Calculating QRP Transmitter Output Power
 
 Depending on RF probe type, formulas used to calculate output power differ slightly.
+It shall be noted that it is possible to measure transmitter power using just a scope 
+and dummy load, but for UHF frequencies, expensive high end scope has to be used.
 
 In this section we will consider half-wave rectifier and full-wave rectifier (prototyped) probes.
 
@@ -85,7 +84,7 @@ Transmitter: TYT MD-790 set to low and high power settings
 Dummy load: 50ohm resistor (RFR 50-250)
 Osciloscope: Unit-T UTD2152CL
 
-### Radio power set to low
+### Radio power set to low, f=144.1MHz
 
 Umeas = 10V
 R = 50ohm
@@ -95,7 +94,7 @@ $Pmax=(Umeas+2Uf)^2/4R=(10+0.9)^2/(4*50)=119/200=0.6W$
 
 $Prms=(Umeas+2Uf)^2/8R=(10+0.9)^2/(8*50)=119/400=0.3W$
 
-### Radio power set to high
+### Radio power set to high, f=144.1MHz
 
 Umeas = 30V
 R = 50ohm
