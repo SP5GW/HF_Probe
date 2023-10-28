@@ -14,6 +14,7 @@ In case of both designs we start with generic Power equations (we assume dummy l
 all frequencies measurements are conducted for):
 
 $\P=U*I$
+
 knowing that $\R=U/I$, we can express current as: $I=U/R$, which when plugged into power equation above
 gives us:
 $\P=U*2/R$
