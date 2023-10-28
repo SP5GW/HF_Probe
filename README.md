@@ -22,4 +22,16 @@ $P=U*2/R$
 
 ### Full-Wave Rectifier Probe Formulas
 
+RF probe output voltage can be expressed as:
+
 $Umeas=2*(Upeak - Uf)$, where Uf is voltage drop on single diode (in case of BAT46 Uf=0.45V)
+
+from above equation Upeak can be calculated as:
+
+$Upeak=(Umeas+2*Uf)/2
+
+Max power can be expressed as:
+
+$Pmax=((Umeas+2*Uf)^2)/4
+
+RMS power can be expressed as:
