@@ -76,7 +76,7 @@ $Prms=Upeak^2/2R$
 $Prms=(Umeas+2Uf)^2/8R$
 
 
-### Measurement results
+## Measuring QRP Transmitter Output Power
 
 The test setup required to perfrom transmitter output power measurement:
 
@@ -85,7 +85,7 @@ Transmitter: TYT MD-790 set to low and high power settings
 Dummy load: 50ohm resistor (RFR 50-250)
 Osciloscope: Unit-T UTD2152CL
 
-#### Radio power set to low
+### Radio power set to low
 
 Umeas = 10V
 R = 50ohm
@@ -95,7 +95,7 @@ $Pmax=(Umeas+2Uf)^2/4R=(10+0.9)^2/(4*50)=119/200=0.6W$
 
 $Prms=(Umeas+2Uf)^2/8R=(10+0.9)^2/(8*50)=119/400=0.3W$
 
-#### Radio power set to high
+### Radio power set to high
 
 Umeas = 30V
 R = 50ohm
@@ -105,7 +105,7 @@ $Pmax=(Umeas+2Uf)^2/4R=(31+0.9)^2/(4*50)=955/200=4.8W$
 
 $Prms=(Umeas+2Uf)^2/8R=(31+0.9)^2/(8*50)=955/400=2.4W$
 
-#### Results Evaluation
+### Results Evaluation
 
 Chinese vendors routinly specify transmit power as maximum power output Pmax...
 In case of measured TYT MD-790, TYT user manual specifies transmit power 
