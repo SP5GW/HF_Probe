@@ -28,10 +28,10 @@ $Umeas=2*(Upeak - Uf)$, where Uf is voltage drop on single diode (in case of BAT
 
 from above equation Upeak can be calculated as:
 
-$Upeak=(Umeas+2*Uf)/2
+$Upeak=(Umeas+2*Uf)/2$
 
 Max power can be expressed as:
 
-$Pmax=((Umeas+2*Uf)^2)/4
+$Pmax=((Umeas+2*Uf)^2)/4$
 
 RMS power can be expressed as:
