@@ -17,6 +17,9 @@ $P=U*I$
 
 knowing that $R=U/I$, we can express current as: $I=U/R$, which when plugged into power equation above
 gives us:
+
 $P=U*2/R$
 
-$\sqrt{3x-1}+(1+x)^2$
+### Full-Wave Rectifier Probe Formulas
+
+$Umeas=2*(Upeak - Uf)$, where Uf is voltage drop on single diode (in case of BAT46 Uf=0.45V)
