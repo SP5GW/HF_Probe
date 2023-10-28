@@ -16,6 +16,6 @@ all frequencies measurements are conducted for):
 $\P=U*I$ 
 knowing that $\R=U/I$, we can express current as: $I=U/R$, which when plugged into power equation above
 gives us:
-$\Ppeak=Upeak*2/R$
+$\P=U*2/R$
 
 $\sqrt{3x-1}+(1+x)^2$
