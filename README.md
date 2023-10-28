@@ -32,6 +32,12 @@ $Upeak=(Umeas+2*Uf)/2$
 
 Max power can be expressed as:
 
-$Pmax=((Umeas+2*Uf)^2)/4$
+$Pmax=(Umeas+2*Uf)^2/4*R$
 
 RMS power can be expressed as:
+
+$Urms=Upeak/sqrt{2}$, hence:
+
+$Prms=Upeak^2/2R$
+
+$Prms=(Umeas+2Uf)/8*R$
