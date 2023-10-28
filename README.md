@@ -13,7 +13,9 @@ In this section we will consider half-wave rectifier and full-wave rectifier (pr
 In case of both designs we start with generic Power equations (we assume dummy load to fully resistive for 
 all frequencies measurements are conducted for):
 
-$\P = U*I$, 
-knowing that $\R = U/I$, we can express current as: $I = U/R$, which when plugged into power equation above
+$\P=U*I$, 
+knowing that $\R=U/I$, we can express current as: $I=U/R$, which when plugged into power equation above
 gives us:
-$\Ppeak = Upeak*2/R$
+$\Ppeak=Upeak*2/R$
+
+$\sqrt{3x-1}+(1+x)^2$
