@@ -13,7 +13,7 @@ In this section we will consider half-wave rectifier and full-wave rectifier (pr
 In case of both designs we start with generic Power equations (we assume dummy load to fully resistive for 
 all frequencies measurements are conducted for):
 
-$\P=U*I$
+$P=U*I$
 
 knowing that $\R=U/I$, we can express current as: $I=U/R$, which when plugged into power equation above
 gives us:
