@@ -18,13 +18,13 @@ $P=U*I$
 knowing that $R=U/I$, we can express current as: $I=U/R$, which when plugged into power equation above
 gives us:
 
-$P=U*2/R$
+$P=U^2/R$
 
 ### Full-Wave Rectifier Probe Formulas
 
 RF probe output voltage can be expressed as:
 
-$Umeas=2*(Upeak - Uf)$, where Uf is voltage drop on single diode (in case of BAT46 Uf=0.45V)
+$Umeas=2(Upeak - Uf)$, where Uf is voltage drop on single diode (in case of BAT46 Uf=0.45V)
 
 from above equation Upeak can be calculated as:
 
