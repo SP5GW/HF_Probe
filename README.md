@@ -105,11 +105,11 @@ $Pmax=(Umeas+2Uf)^2/4R=(31+0.9)^2/(4*50)=955/200=4.8W$
 
 $Prms=(Umeas+2Uf)^2/8R=(31+0.9)^2/(8*50)=955/400=2.4W$
 
-#### Measurements Conclusions
+#### Results Evaluation
 
 Chinese vendors routinly specify transmit power as maximum power output Pmax...
 In case of measured TYT MD-790, TYT user manual specifies transmit power 
 of <5W for high power setting <1W for low power setting.
 
 From conducted measurements it is evident that manual refers to Pmax and not 
-to commonly used and more applicable Prms...
+to more applicable Prms...
