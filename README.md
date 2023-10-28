@@ -36,10 +36,10 @@ $Pmax=(Umeas+2*Uf)^2/4*R$
 
 Similarly, RMS power can be expressed as:
 
-$Urms=Upeak/sqrt(2)$, hence:
+$Urms=Upeak/\sqrt(2)$, hence:
 
 $Urms^2=Upeak^2/2$
 
 $Prms=Upeak^2/2R$
 
-$Prms=(Umeas+2Uf)/8*R$
+$Prms=(Umeas+2Uf)/8R$
