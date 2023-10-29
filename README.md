@@ -15,7 +15,7 @@ To be added.
 ## The Theory of Operation
 
 <p align="center">
-<img src="./img/HFProbe_FullWaveformRectifier.png" width="900" height="900"/>
+<img src="./img/HFProbe_FullWaveformRectifier.jpg" width="400" height="400"/>
 </p>
 
 ## Building the HF probe
