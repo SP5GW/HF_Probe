@@ -20,13 +20,19 @@ To be added.
 
 ## Building the HF probe
 
-### Steo 1: Collecting all components
+### Step 1: Collecting all components
 
 <p align="center">
 <img src="./img/step1_main components.jpg" width="400" height="400"/>
 </p>
 
-### Steo 2: Collecting all components
+### Steo 2: Soldering Electronic Circuit
+
+<p align="center">
+<img src="./img/step2_solderingcircuit_1.jpg" width="200" height="200"/>
+<img src="./img/step2_solderingcircuit_2.jpg" width="200" height="200"/>
+</p>
+
 
 
 ### Steo 3: Collecting all components
