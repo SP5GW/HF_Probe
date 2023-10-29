@@ -42,7 +42,7 @@ To be added.
 ### Steo 4: Attaching Probe's Niddle
 
 <p align="center">
-<img src="./img/step4_attachingnidle_1" width="300" height="300"/>
+<img src="./img/step4_attachingnidle_1.jpg" width="300" height="300"/>
 <img src="./img/step4_attachingnidle_2.jpg" width="300" height="300"/>
 </p>
 
