@@ -18,6 +18,16 @@ To be added.
 <img src="./img/HFProbe_FullWaveformRectifier.png" width="900" height="900"/>
 </p>
 
+## LTSpice Simulation results 
+
+In below simulation HF probe has been attached to sinwave source (f=10MHz,Upeak=3V)
+As expected probes output voltage was: $Umeas=2(Upeak - Uf). See picture below:
+
+<p align="center">
+<img src="./img/LTSpiceProbeSimulation.png" width="600" height="400"/>
+</p>
+
+
 ## Building the HF probe
 
 To provide the idea how such probe can be built, series of photos describing device step by step
@@ -151,7 +161,6 @@ $Urms^2=Upeak^2/2$
 $Prms=Upeak^2/2R$
 
 $Prms=(Umeas+2Uf)^2/8R$
-
 
 ## Measuring QRP Transmitter Output Power
 
