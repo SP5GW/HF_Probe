@@ -1,5 +1,23 @@
 # RF_Probe
 
+## Introduction
+
+This document describes how to build HF probe based on full waveform rectifier. 
+Full waveform rectifier design has been selected due to higher sensitivity compared to 
+half waveform detector.
+Document also provides theory of operation for HF probe and how this device can be used to 
+measure transmitter output power.
+
+## Electronic Circuit Diagram
+
+To be added.
+
+## The theory of operation
+
+<p align="center">
+<img src="./img/HFProbe_FullWaveformRectifier.png" width="900" height="900"/>
+</p>
+
 
 
 ## Calculating QRP Transmitter Output Power
@@ -26,7 +44,7 @@ $P=U^2/R$
 
 RF probe output voltage can be expressed as:
 
-$Umeas=Upeak - Uf$, where Uf is voltage drop on single diode (in case of BAT46 Uf=0.45V)
+$Umeas=Upeak - Uf$, where Uf is the forward voltage drop on the single diode (in case of BAT46 Uf=0.45V)
 
 from above equation Upeak can be calculated as:
 
@@ -112,3 +130,7 @@ of <5W for high power setting <1W for low power setting.
 
 From conducted measurements it is evident that manual refers to Pmax and not 
 to more applicable Prms...
+
+## Resources
+
+https://www.qsl.net/g3pto/probe.html
