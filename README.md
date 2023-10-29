@@ -20,11 +20,21 @@ To be added.
 
 ## Building the HF probe
 
+To provide the idea how such probe can be built, series of photos describing device step by step
+constrution are shown below:
+
 ### Step 1: Collecting all components
 
 <p align="center">
 <img src="./img/step1_main components.jpg" width="400" height="400"/>
 </p>
+Key components:
+Test Cables with connectors/needle - AVT:  L4126 Emcos - Test Lead Set
+tube with plugs - Akwarysta24 (Allegro): PMMA 15/1mm
+100nF ceramic capacitors (perferably high voltage of at least 100V)
+Fast Shottky Diode with high Peak Reverse Voltage of at least 100V e.g. BAT-46
+Small screw terminals - AVT: 2.54mm raster, 2 connectors, 8.5mm height
+
 
 ### Steo 2: Soldering Electronic Circuit
 
@@ -33,11 +43,15 @@ To be added.
 <img src="./img/step2_solderingcircuit_2.jpg" width="300" height="300"/>
 </p>
 
+The easiest way to prepare pcb is to remove parts of conducting surface with 
+sharp object such as knife.
+
 ### Steo 3: Securing Ground Probe's Wire
 
 <p align="center">
 <img src="./img/step3_securinggroundprobe.jpg" width="300" height="300"/>
 </p>
+
 
 ### Steo 4: Attaching Probe's Niddle
 
@@ -45,6 +59,9 @@ To be added.
 <img src="./img/step4_attachingnidle_1.jpg" width="300" height="300"/>
 <img src="./img/step4_attachingnidle_2.jpg" width="300" height="300"/>
 </p>
+
+The easiest method is to solder 1mm wire to the nut, which is then put on the 
+needle. 
 
 ### Steo 5: Installing Electronics in the Tube
 
@@ -58,9 +75,8 @@ To be added.
 <img src="./img/step6_finishedproduct.jpg" width="300" height="300"/>
 </p>
 
-To provide the idea how such probe can be built, series of photos describing device step by step
-constrution are shown below:
-
+To make a probe more visually apealing it is possible to put it into 
+heat shrink sleeve (minimum diameter of 20mm).
 
 
 ## Calculating QRP Transmitter Output Power
@@ -177,3 +193,4 @@ to more applicable Prms...
 ## Resources
 
 https://www.qsl.net/g3pto/probe.html
+https://www.youtube.com/@ALLABOUTELECTRONICS
