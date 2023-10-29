@@ -12,11 +12,34 @@ measure transmitter output power.
 
 To be added.
 
-## The theory of operation
+## The Theory of Operation
 
 <p align="center">
 <img src="./img/HFProbe_FullWaveformRectifier.png" width="900" height="900"/>
 </p>
+
+## Building the HF probe
+
+### Steo 1: Collecting all components
+
+<p align="center">
+<img src="./img/step1_main components.png" width="900" height="900"/>
+</p>
+
+### Steo 2: Collecting all components
+
+
+### Steo 3: Collecting all components
+
+
+### Steo 4: Collecting all components
+
+
+### Steo 5: Collecting all components
+
+
+To provide the idea how such probe can be built, series of photos describing device step by step
+constrution are shown below:
 
 
 
