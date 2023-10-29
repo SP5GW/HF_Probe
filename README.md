@@ -61,7 +61,8 @@ sharp object such as knife.
 </p>
 
 The easiest method is to solder 1mm wire to the nut, which is then put on the 
-needle. 
+needle. Unsoldered end of the wire shall be put into hot 
+connector of the screw terminal.
 
 ### Steo 5: Installing Electronics in the Tube
 
@@ -75,7 +76,7 @@ needle.
 <img src="./img/step6_finishedproduct.jpg" width="300" height="300"/>
 </p>
 
-To make a probe more visually apealing it is possible to put it into 
+To make the probe more visually apealing it is possible to put it into 
 heat shrink sleeve (minimum diameter of 20mm).
 
 
