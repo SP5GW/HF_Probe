@@ -29,20 +29,34 @@ To be added.
 ### Steo 2: Soldering Electronic Circuit
 
 <p align="center">
-<img src="./img/step2_solderingcircuit_1.jpg" width="200" height="200"/>
-<img src="./img/step2_solderingcircuit_2.jpg" width="200" height="200"/>
+<img src="./img/step2_solderingcircuit_1.jpg" width="300" height="300"/>
+<img src="./img/step2_solderingcircuit_2.jpg" width="300" height="300"/>
 </p>
 
+### Steo 3: Securing Ground Probe's Wire
 
+<p align="center">
+<img src="./img/step3_securinggroundprobe.jpg" width="300" height="300"/>
+</p>
 
-### Steo 3: Collecting all components
+### Steo 4: Attaching Probe's Niddle
 
+<p align="center">
+<img src="./img/step4_attachingnidle_1" width="300" height="300"/>
+<img src="./img/step4_attachingnidle_2.jpg" width="300" height="300"/>
+</p>
 
-### Steo 4: Collecting all components
+### Steo 5: Installing Electronics in the Tube
 
+<p align="center">
+<img src="./img/step5_tubemounting.jpg" width="300" height="300"/>
+</p>
 
-### Steo 5: Collecting all components
+### Steo 6: Finished Product
 
+<p align="center">
+<img src="./img/step6_finishedproduct.jpg" width="300" height="300"/>
+</p>
 
 To provide the idea how such probe can be built, series of photos describing device step by step
 constrution are shown below:
